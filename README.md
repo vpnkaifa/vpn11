@@ -1,9 +1,7 @@
 # 联系TG：@QT315 成品出售目前市面各大火热VPN模版
-# vpn客户端项目，定制开发的windows/Android/ios/mac/Linux 五个客户端。
+# vpn客户端项目，定制开发windows/Android/ios/mac/Linux 五个客户端。
 # 后台比v2board更灵活更完善，功能很全，可以灵活配置节点服务器和代理ip。
-# 客户不仅能购买机场订阅还可以在平台购买私有的服务器或者住宅ip，用来做外贸或者tiktok直播等。
 # 网络延迟在 30 毫秒以内，需要加速优化的也可以交流，有效果图。
-# 服务器端和客户端都支持多语言。国际化出海无压力。ads买量及新媒体推广欢迎交流。
 # ![1111](https://github.com/user-attachments/assets/fac8da5e-bde6-465f-96a5-3fda4ebed3df)
 # http://www.489486.cyou/
 ![11](https://github.com/user-attachments/assets/ce301df2-52df-4212-8b2a-6092842477f0)
